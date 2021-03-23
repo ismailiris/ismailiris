@@ -1,5 +1,4 @@
 - 👋 Hi, I’m İsmail.
-- 
 - 👀 I’m interested in mobile app development and deep learning.
 - 🌱 I’m currently learning React Native.
 - :memo: I can not work in any job right now. I'm a university student.
