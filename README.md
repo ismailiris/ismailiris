@@ -1,5 +1,5 @@
 <h1 align="center">Hi. I'm Ismail.</h1>
-<h3 align="center">Data Science & Machine Learning Enthusiast</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailiris&show_icons=true&theme=ismailiris&locale=en&layout=compact" alt="ismailiris" /></p>
 
