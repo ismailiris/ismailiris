@@ -1,28 +1,44 @@
-<h1 align="center">Hi. I'm Ismail.</h1>
-<h3 align="center">Computer Engineer</h3>
+# 👋 Merhaba, Ben İsmail
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailiris&show_icons=true&theme=ismailiris&locale=en&layout=compact" alt="ismailiris" /></p>
+<div align="center">
+  
+[![Profil Görüntülenme](https://komarev.com/ghpvc/?username=ismailiris&label=Profile%20views&color=ff69b4&style=flat)](https://github.com/ismailiris)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismailiris)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ismailiris)
 
+</div>
 
-- 🌱 I’m currently learning **.Net Core**
+## 👨‍💻 Hakkımda
 
-- 📫 How to reach me **ismailiris@gmail.com**
+> Full Stack Developer olarak .NET ve Angular ekosistemlerinde uzmanlaşmış, mikroservis mimarisi ve modern web teknolojileri konusunda deneyimli, çevik metodolojileri benimseyen, yüksek performanslı ve ölçeklenebilir çözümler üreten tutkulu bir yazılım geliştiriciyim. Kod kalitesi ve temiz mimari prensiplerini önemsiyor, sürekli öğrenme ve gelişime odaklanıyorum.
 
+- 🔭 Şu anda **Mia Teknoloji** şirketinde çalışıyorum
+- 🌱 Microservices mimarisi ve Cloud teknolojileri üzerine kendimi geliştiriyorum
+- 💬 .NET, Angular ve yazılım mimarisi konularında yardımcı olabilirim
+- 📫 Bana ulaşın: **ismailiris@gmail.com**
 
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ismailiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailiris" height="30" width="40" /></a>
-<a href="https://instagram.com/ismailiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismailiris" height="30" width="40" /></a>
-<a href="https://twitter.com/ismailiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismailiris" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ismailiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ismailiris" height="30" width="40" /></a>
-</p>
+### Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ismailiris&show_icons=true&theme=tokyonight&locale=en" alt="ismailiris" /></p>
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailiris&label=Profile%20views&color=0e75b6&style=flat" alt="ismailiris" /> </p> 
+<div align="center">
 
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=ismailiris&show_icons=true&theme=tokyonight)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailiris&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ismailiris&theme=tokyonight)
 
+</div>
